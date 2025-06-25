@@ -1,0 +1,16 @@
+.home {
+  padding: 100px 20px;
+  text-align: center;
+  background: linear-gradient(to right, #e3f2fd, #fff);
+}
+
+.home h1 {
+  font-size: 3rem;
+  color: #222;
+  margin-bottom: 1rem;
+}
+
+.home p {
+  font-size: 1.3rem;
+  color: #444;
+}

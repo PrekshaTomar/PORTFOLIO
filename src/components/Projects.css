@@ -1,0 +1,27 @@
+.projects {
+  padding: 80px 20px;
+  background-color: #e8f5e9;
+  text-align: center;
+}
+
+.projects h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.projects ul {
+  list-style: none;
+  padding: 0;
+}
+
+.projects li {
+  margin: 12px 0;
+  font-size: 1.1rem;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+
+.projects li:hover {
+  color: #2e7d32;
+  transform: translateX(5px);
+}
